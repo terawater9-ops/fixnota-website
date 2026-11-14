@@ -1,7 +1,7 @@
 // Site settings.
 window.FIXNOTA = {
   // Web3Forms access key for the Fixnota inbox. Leave empty until the key is created.
-  formKey: "",
+  formKey: "19f57efa-70c0-4eb7-a7b9-093a33bea857",
   thanksUrl: "https://fixnota.com/thanks.html"
 };
 
